@@ -26,3 +26,5 @@ And when we unpack `C` (recall, also composed), we get:
 A(B(x)) === D(B(x));
 ```
 That is, `A` and `D` agree on the bird `B(x)`. Since `D` is arbitrary, this holds no matter its value; thus, `A` is agreeable.
+
+[**Next =>**](../5/README.md)

@@ -1,10 +1,10 @@
 # Compatible Birds
 
 ### Conditions
-* Two birds `A` and `B` are "compatible" if there exist two birds `x` and `y` such that `A(x) === y` and `B(y) === x`
+Two birds `A` and `B` are "compatible" if there exist two birds `x` and `y` such that `A(x) === y` and `B(y) === x`.
 
 ### Problem
-Show that, under the conditions of [problem 1](../problem-1/README.md), _any_ two birds `A` and `B` are compatible.
+Show that, under the conditions of [problem 1](../1/README.md), _any_ two birds `A` and `B` are compatible.
 
 ### Solution
 We start by composing the arbitrary birds `A` and `B`:
@@ -22,3 +22,5 @@ Now, let's name the bird `B(y)` `x`:
 A(x) === y;
 ```
 That's our answer: we see that `A(x) === y`, and we know (from the definition of `x`) that `B(y) === x`. Thus, `A` and `B` are compatible.
+
+[**Next =>**](../7/README.md)

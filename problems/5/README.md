@@ -8,12 +8,14 @@ Assume a bird `E` that composes `B` and `C`:
 ```js
 const E = compose(B, C);
 ```
-If you call `A` with `E`, you get the `A(B(C))` nesting we're looking for:
+Note that, if you call `A` with `E(x)` (where `x` is _another_ arbitrary bird), you get the `A(B(C))` nesting we're looking for:
 ```js
-A(E(x)) === A(B(C(x)));
+A(E(x)); // => A(B(C(x)));
 ```
 Now we do the same trick again and assume a bird `D` that composes `A` with `E`:
 ```js
 const D = compose(A, E);
 ```
 Thus, `D(x)` evaluates to `A(E(x))` evaluates to `A(B(C(x)))`, regardless of the values of `A`, `B`, and `C`.
+
+[**Next =>**](../6/README.md)
