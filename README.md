@@ -10,3 +10,4 @@ This repo captures notes and solutions from working through Smullyan's problems.
 * [6: Compatible Birds](problems/6/README.md)
 * [7: Happy Birds](problems/7/README.md)
 * [8: Normal Birds](problems/8/README.md)
+* [9: Hopelessly Egocentric](problems/9/README.md)

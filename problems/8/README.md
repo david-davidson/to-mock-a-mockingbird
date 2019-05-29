@@ -24,3 +24,5 @@ We invoke `composed` with `y` and unpack the composition:
 composed(y); // => H(H(y));
 ```
 Now, we already know that `H(H(y)) === y`, so we also know that `composed(y) === y`. Thus, `composed` is fond of `y`, and there's at least one normal bird in the forest.
+
+[**Next =>**](../9/README.md)
