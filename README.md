@@ -11,3 +11,7 @@ This repo captures notes and solutions from working through Smullyan's problems.
 * [7: Happy Birds](problems/7/README.md)
 * [8: Normal Birds](problems/8/README.md)
 * [9: Hopelessly Egocentric](problems/9/README.md)
+* [10: Fixation](problems/10/README.md)
+* [11: A Fact about Kestrels](problems/11/README.md)
+* [12: Another Fact about Kestrels](problems/12/README.md)
+* [13: A Simple Exercise](problems/13/README.md)

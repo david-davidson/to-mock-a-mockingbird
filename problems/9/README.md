@@ -25,3 +25,5 @@ But since the Kestrel is fixated on its first argument, `A`, we know that `K(A)(
 K(A)(x) === A;
 K(A)(x) === A(x);
 ```
+
+[**Next =>**](../10/README.md)
