@@ -15,3 +15,8 @@ This repo captures notes and solutions from working through Smullyan's problems.
 * [11: A Fact about Kestrels](problems/11/README.md)
 * [12: Another Fact about Kestrels](problems/12/README.md)
 * [13: A Simple Exercise](problems/13/README.md)
+* [14: Another Exercise](problems/14/README.md)
+* [15: Hopeless Egocentricity Is Contagious!](problems/15/README.md)
+* [16: Another Fact about Kestrels](problems/16/README.md)
+* [17: A Fact about Fixation](problems/17/README.md)
+* [18: Another Fact about Kestrels](problems/18/README.md)

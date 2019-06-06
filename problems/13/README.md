@@ -5,3 +5,5 @@ Is it true that if bird `A` is hopelessly egocentric, then for any birds `x` and
 
 ### Solution
 This exercise is, indeed, simple. Both `A(x)` and `A(y)` return `A`, so `A(x) === A(y)`.
+
+[**Next =>**](../14/README.md)
