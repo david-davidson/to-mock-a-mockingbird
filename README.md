@@ -20,3 +20,4 @@ This repo captures notes and solutions from working through Smullyan's problems.
 * [16: Another Fact about Kestrels](problems/16/README.md)
 * [17: A Fact about Fixation](problems/17/README.md)
 * [18: Another Fact about Kestrels](problems/18/README.md)
+* [19: A Riddle](problems/19/README.md)
