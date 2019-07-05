@@ -28,3 +28,5 @@ K(x) === K(y);
 From [problem 16](../16/README.md), we know that if `K(x) === K(y)`, then `x === y`.
 
 The second proof is similar to mine, but doesn't need a second bird `y`. First, we consider `K(x)` for every bird `x`. It's fixated on `x` (because it's a Kestrel), and it evaluates to `K` (because it's hopelessly egocentric). Therefore, `K` is fixated on `x` (and, still, on `K`). From [problem 17](../17/README.md), we know that a bird cannot be fixated on more than one bird—thus, every value of `x` is the _same_ bird as `K`, and `K` is the only bird in the forest.
+
+[**Next =>**](../20/README.md)

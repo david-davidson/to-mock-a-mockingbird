@@ -1,3 +1,6 @@
+# To Mock a Mockingbird
+## Notes and Solutions
+
 Raymond Smullyan's _To Mock a Mockingbird_ explores various problems in combinatory logic through the extended metaphor of a forest full of birds. Each bird represents a combinator function: a simple, generic, often higher-order function that operates on no variables other than its arguments. (The Mockingbird, for example, takes one argument and returns the result of invoking it with itself: `const Mockingbird = x => x(x)`).
 
 This repo captures notes and solutions from working through Smullyan's problems. (I found many of these too difficult to solve without checking the answers, which can be quite dense—more than anything, these are notes-to-self on the solutions!)
@@ -21,3 +24,10 @@ This repo captures notes and solutions from working through Smullyan's problems.
 * [17: A Fact about Fixation](problems/17/README.md)
 * [18: Another Fact about Kestrels](problems/18/README.md)
 * [19: A Riddle](problems/19/README.md)
+* [20](problems/20/README.md)
+* [21](problems/21/README.md)
+* [22](problems/22/README.md)
+* [23](problems/23/README.md)
+* [24](problems/24/README.md)
+* [25](problems/25/README.md)
+* [26: Another Riddle](problems/26/README.md)
