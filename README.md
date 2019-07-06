@@ -31,3 +31,6 @@ This repo captures notes and solutions from working through Smullyan's problems.
 * [24](problems/24/README.md)
 * [25](problems/25/README.md)
 * [26: Another Riddle](problems/26/README.md)
+* [27](problems/27/README.md)
+* [28](problems/28/README.md)
+* [29](problems/29/README.md)

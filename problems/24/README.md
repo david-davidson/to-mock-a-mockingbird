@@ -1,7 +1,7 @@
 ### Conditions
 A bird `L` is called a `Lark` if, for any birds `x` and `y`, the following condition holds:
 ```js
-L(x)(y) => x(y(y))
+L(x)(y) => x(y(y));
 ```
 
 ### Problem
